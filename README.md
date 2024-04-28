@@ -1,4 +1,3 @@
-
 1 - Primeiro, abra o CMD e navegue até a pasta onde está seu projeto.
 
 2 - Assim que estiver na pasta correta, vamos verificar se o Node.js está instalado. Digite o comando node --version. Se aparecer a versão, ótimo! Caso contrário, será necessário instalar o Node.js.
@@ -12,3 +11,6 @@
 6 - Agora, navegue até o diretório do seu projeto Angular. Digite cd my-app.
 
 7 - Por fim, para iniciar o servidor e abrir o projeto no navegador, digite ng serve -o.
+
+
+![Print Execução](https://github.com/FIAP-2024-3SIS/cp02-87796-thiago-michelle-de-oliveira-ieffa/assets/159389255/e3810a6c-9b9c-4bfc-8215-5e5045880d6a)
