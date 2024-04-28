@@ -4,7 +4,7 @@
 
 3 - Para instalar o Node.js, acesse o site oficial em https://nodejs.org/en/download/current e siga as instruções para instalação.
 
-4 - Após concluir a instalação do Node.js, vamos instalar globalmente o Angular CLI. Digite o comando npm install -g @angular/cli.
+4 - Após concluir a instalação do Node.js, vamos instalar Angular CLI, insira comando npm install -g @angular/cli.
 
 5 - Pode ser necessário instalar as dependências do seu projeto. Se for o caso, digite npm install.
 
